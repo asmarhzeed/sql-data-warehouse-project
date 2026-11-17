@@ -1,2 +1,44 @@
 # sql-data-warehouse-project
-Building a modern data warehouse using SQL Server, with a focus on designing data models, developing ETL processes, and creating a foundation for meaningful data analysis.
+
+Welcome to the ** Data Warehouse and Analytics Project ** repository!
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
+
+
+### Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+#### Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+#### Specifications
+- ** Data Sources **: Import data from two source systems (ERP and CRM) provided as CSV files.
+- ** Data Quality **: Cleanse and resolve data quality issues before analysis.
+- ** Integration **: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- ** Scope **: Focus on the latest dataset only; historization of data is not required.
+- ** Documentation **: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+
+### BI: Analytics & Reporting (Data Analytics)
+
+#### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+- ** Customer Behavior **
+- ** Product Performance **
+- ** Sales Trends **
+
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+
+------
+
+
+### License
+
+This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+### About Me
+
+Hi there! I'm **Asma**, a Junior Data Scientist who enjoys exploring data, uncovering patterns, and turning raw information into meaningful insights. I'm passionate about learning new technologies, solving problems, and growing my skills in data science. Always curious, always learning, and excited to see where data can take me!
